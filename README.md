@@ -24,6 +24,9 @@ Just a simple project to get started with Tensorflow and Neural Network.
 Here's the DataFrame of the Dataset:
 > `Pandas.DataFrame()`
 
+![image](https://github.com/Tharun-02/x0_neural_network_classification/assets/83574493/1e2569b9-f741-44eb-9ddf-e367389c8355)
+
+
 Here in this project, I've used moons dataset from Scikit-learn's `sklearn.dataset.make_moons` which looks like cresent shaped formed with lot of small circles which we can adjust the values.
 
 ## Visualizing the Data
