@@ -13,10 +13,10 @@ Just a simple project to get started with Tensorflow and Neural Network.
 
 ## Requirements
 
-- Python 3.10.11
-- Tensorflow 2.12.0
-- Sklearn 1.2.2
-- Numpy 1.22.4
+- Python: 3.10.11
+- Tensorflow: 2.12.0
+- Sklearn: 1.2.2
+- Numpy: 1.22.4
 - Matplotlib: 3.7.1
 - Pandas: 1.5.3
 
